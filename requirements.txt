@@ -1,0 +1,16 @@
+beautifulsoup4
+keras
+matplotlib
+numpy
+opencv-python
+pandas
+pandas-profiling
+plotly
+scikit-learn
+scipy
+statsmodels
+tensorflow
+xgboost
+nltk
+seaborn
+torch
