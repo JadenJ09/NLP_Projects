@@ -18,3 +18,5 @@ venv/
 ProjectStudy/*
 !ProjectStudy/*.ipynb
 !ProjectStudy/*.py
+ProjectStudy/getpass.py
+ProjectStudy/keys.py
